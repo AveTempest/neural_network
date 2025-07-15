@@ -44,17 +44,15 @@ neural_netwrok/
 
 ```bash
 git clone https://github.com/your-username/neural-net-from-scratch.git
-cd neural_netwrok
-
+cd neural_netwrok 
+```
 ### 2. Install Required Packages
 
 Make sure Python 3.7+ is installed, then install the dependencies:
 
 ```bash
 pip install -r requirements.txt
-
-#### 🔹 How to run the project:
-
+```
 ```markdown
 ### 3. Run the Files
 
@@ -62,3 +60,6 @@ Run the full neural network pipeline:
 
 ```bash
 python main.py
+
+
+
