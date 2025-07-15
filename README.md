@@ -15,9 +15,13 @@ It includes:
 neural_netwrok/
 │
 ├── main.py # Full neural network pipeline with spiral dataset
+
 ├── softmax_fn.py # Independent softmax function example
+
 ├── loss_function.py # Independent categorical cross-entropy loss example
+
 ├── requirements.txt # Python packages required
+
 └── README.md # Project documentation
 
 ---
