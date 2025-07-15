@@ -13,7 +13,7 @@ It includes:
 ## 📁 Project Structure
 
 neural_netwrok/
-│
+
 ├── main.py # Full neural network pipeline with spiral dataset
 
 ├── softmax_fn.py # Independent softmax function example
