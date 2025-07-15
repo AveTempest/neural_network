@@ -53,7 +53,6 @@ Make sure Python 3.7+ is installed, then install the dependencies:
 ```bash
 pip install -r requirements.txt
 ```
-```markdown
 ### 3. Run the Files
 
 Run the full neural network pipeline:
